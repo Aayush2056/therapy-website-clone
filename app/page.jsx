@@ -583,7 +583,7 @@ export default function HomePage() {
             <p>Telehealth across all California</p>
           </div>
           <div className="md:col-span-3 space-y-1 text-stone-500">
-            <p>© {new Date().getFullYear()} Dr. Maya Reynolds. All rights reserved.</p>
+          <p>© 2026 Dr. Maya Reynolds. All rights reserved.</p>
             <p>In emergency, please call 988 or go to nearest ER.</p>
           </div>
         </div>
