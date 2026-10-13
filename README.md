@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Therapy Website Clone 🌿
 
-## Getting Started
+A modern, responsive therapist website inspired by Dr. Maya Reynolds' Grow My Therapy website. Built with Next.js, React, and Tailwind CSS, this project focuses on creating a calm, welcoming, and user-friendly experience across desktop, tablet, and mobile devices.
 
-First, run the development server:
+## ✨ Features
+
+* **Responsive Design:** Adapts to desktop, tablet, and mobile screens.
+* **Modern UI:** Clean layout with calming colors and typography.
+* **Therapist Profile:** Dedicated section introducing Dr. Maya Reynolds.
+* **Therapy Services:** Organized presentation of therapy services.
+* **FAQ Section:** Helps visitors find answers to common questions.
+* **Self-Care Resources:** Wellness content covering mindfulness, journaling, and relaxation.
+* **Contact Section:** Provides a dedicated area for visitors to get in touch.
+* **Mobile Navigation:** Navigation designed for smaller screens.
+
+## 🛠️ Tech Stack
+
+* Next.js
+* React.js
+* Tailwind CSS
+* JavaScript
+* Lucide React
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Node.js
+* npm
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/Aayush2056/therapy-website-clone.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd therapy-website-clone
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**5. Open the website**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit `http://localhost:3000` in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📱 Responsive Design
 
-## Learn More
+The website layout adjusts to different screen sizes to provide a consistent browsing experience on laptops, tablets, and mobile devices.
 
-To learn more about Next.js, take a look at the following resources:
+## 🌐 Repository
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+GitHub: https://github.com/Aayush2056/therapy-website-clone
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎯 Project Purpose
 
-## Deploy on Vercel
+This project was created to practice frontend development, responsive web design, and recreating a professional website interface using modern web technologies.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚠️ Disclaimer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is an independent website clone created for educational and demonstration purposes. It is not the official website of Dr. Maya Reynolds or Grow My Therapy.
+
+---
+
+**Developed by Aayush Mishra**
